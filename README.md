@@ -3,7 +3,7 @@ Make public TCP port use Tailscale and Socat
 
 
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/thuonghai2711/publictunnel)](https://hub.docker.com/r/thuonghai2711/publictunnel)
+[![Docker Pulls](https://img.shields.io/docker/pulls/thuonghai2711/publictunnel?cacheSeconds=3600)](https://hub.docker.com/r/thuonghai2711/publictunnel)
 
 
 
