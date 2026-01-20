@@ -1,0 +1,17 @@
+{
+  "deploy": {
+    "image": "thuonghai2711/publictunnel:latest",
+    "variables": {
+      "TOKEN": "",
+      "TARGET": ""
+    }
+  },
+  "service": {
+    "ports": [
+      {
+        "port": 2711,
+        "protocol": "tcp"
+      }
+    ]
+  }
+}
